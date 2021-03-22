@@ -63,16 +63,17 @@ Espoo
 - (a) Pelipallon tulee olla pyöreä, ja halkaisijan tulee olla vähintään 7 cm ja enintään 10 cm. Pallon massa tulee olla vähintään 50g, enintään 500g.
 - (c) Jokaisella saman pelin tiimillä tulee olla erivärinen pallo. Jos erivärisiä palloja ei ole tarpeeksi, samanväriset pallot tulee merkitä niin, että ne voidaan tunnistaa toisistaan.
 - (d) Pelaaja voi konklaavin luvalla nostaa pallon lyöntien välissä vaihtaakseen sen, jos pallo on viallinen tai vaurioitunut. Palloa nostaessa sen paikka tulee merkitä. Konklaavin tehtävä on tarkistaa, että pallo on palautettu samalle paikalle kuin se oli ennen nostoa.
-- (e) Pallon hajotessa osiin sen paikka määräytyy suurimman osan mukaan. Jos osat ovat yhtä suuret, pelaaja saa valita suurimpien osien joukosta sen osan
-, joka määrää pallon paikan.
+- (e) Pallon hajotessa osiin sen paikka määräytyy suurimman osan mukaan. Jos osat ovat yhtä suuret, pelaaja saa valita suurimpien osien joukosta sen osan, joka määrää pallon paikan.
 - (f) Jos pelaaja tahallaan hajottaa pallon, tuomitaan hänet hävinneeksi ja pallon osat poistetaan pelistä.
+
 #### 1.3.4. Mailat
 - (a) Maila koostuu mailan päästä eli molosta ja sen keskikohtaan kohtisuorasti kiinnitetystä varresta. Jos mailan pää on irrotettavissa varresta, sitä ei saa vaihtaa kesken pelin ellei se ole vaurioitunut e-kohdan mukaisesti.
 - (b) Mailan varsi voi olla valmistettu mistä tahansa materiaalista. Mailan varteen saa asentaa gripin. Varsi ei saa olla muovattu pelaajan käden minkään osan muotoon.
 - (c) Mailan pään tulee olla kova ja materiaaliltaan sekä rakenteeltaan sellainen, ettei se vahingoita palloja. Mailan molempien päiden tulee olla samanlaiset,
 suorat ja sileät. Jos pelaajan mailan päät eivät ole samanlaiset, konklaavi määrää kummalla päällä pelaajan on pelattava.
-- (d) Kaikenlaisten tähtäimien, peilien ja muiden apuvälineiden liittäminen mailaan on kielletty. Mailan varren ei kuitenkaan tarvitse olla suora ja mailan päässä voi olla piirrettynä tähtäysviivoja.
-- (e)Mailaa ei saa vaihtaa pelin aikana, ellei se ole pelissä vahingossa vaurioitunut niin, että se vaikuttaa merkittävästi pelaamiseen. Vaurioituneella mailalla saa pelata vain, jos siitä ei saa hyötyä pelaamiseen. Pelaaja voi vaihtaa vaurioituneen mailan ainoastaan konklaavin luvalla tai konklaavin vaatimuksesta.
+- (d) Pelissä käytettävien mailojen tulee olla yhtä pitkiä. Mailojen pituus mitataan varren suunnassa varren päästä molon reunaan asti, ja siitä käytetään nimitystä mailanmitta.
+- (e) Kaikenlaisten tähtäimien, peilien ja muiden apuvälineiden liittäminen mailaan on kielletty. Mailan varren ei kuitenkaan tarvitse olla suora ja mailan päässä voi olla piirrettynä tähtäysviivoja.
+- (f) Mailaa ei saa vaihtaa pelin aikana, ellei se ole pelissä vahingossa vaurioitunut niin, että se vaikuttaa merkittävästi pelaamiseen. Vaurioituneella mailalla saa pelata vain, jos siitä ei saa hyötyä pelaamiseen. Pelaaja voi vaihtaa vaurioituneen mailan ainoastaan konklaavin luvalla tai konklaavin vaatimuksesta.
 
 ## 2. Määritelmiä
 ### 2.1. Pelin alku, pelin loppu, lyöntivuoro
@@ -105,9 +106,9 @@ pois. Jos pelaaja lyö seuraavan lyönnin samasta lyöntiasennosta, lyöntiliike
 - (I) Jos mikään pallo ei liiku pallon halkaisijan mittaa, lyöntiä ei ole tapahtunut ja lyöjä voi aloittaa lyönnin ja lyöntiliikkeen uudestaan.
 
 ### 2.3. Pallon tilat
-- (a) Pallon sanotaan olevan pelissä, kun se on pelattu sinne sääntöjen 3.1(e) ja 2.2 mukaan 
+- (a) Pallon sanotaan olevan pelissä, kun se on pelattu sinne sääntöjen 3.1 ja 2.2 mukaan 
   * a. Pallo on pelissä, 
-    + i. kunnes se poistetaan pelistäsen lyönninjälkeen, jolla pallo on osunut maalitolppaan (säännön 3.5mukaan) 
+    + i. kunnes se poistetaan pelistä sen lyönnin jälkeen, jolla pallo on osunut maalitolppaan (säännön 3.5 mukaan)
     + ii. tai jos pallo poistetaan pelistä säännöt (rangaistukset) mukaan
 - (b) Pallon sanotaan olevan levossa, kun se on pelissä 2.3(a):n mukaan ja liikkumatta paikoillaan kentällä. 
   * a. Pallosta tulee pallo levossa 
@@ -118,8 +119,9 @@ pois. Jos pelaaja lyö seuraavan lyönnin samasta lyöntiasennosta, lyöntiliike
     + ii. kun siitä tulee käsipallo
 - (c) Käsipallo
   * a. Mistä tahansa pallosta tulee käsipallo ja ulkopuolinen tekijä, kun
-    + i. se tilapäisesti poistetaan kentältä säännön 1.3.3(d) mukaan (esimerkiksi pallon rikkoutuessa) 
-    + ii. se poistuu kokonaan pelialueelta iii.sitä siirretään lyönnin mitätöinnin yhteydessä 
+    + i.se tilapäisesti poistetaan kentältä säännön 1.3.3(d) mukaan (esimerkiksi pallon rikkoutuessa) 
+    + ii.se poistuu kokonaan pelialueelta 
+    + iii. sitä siirretään lyönnin mitätöinnin yhteydessä 
   * b. Lyöjän pallosta tulee käsipallo ja ulkopuolinen tekijä 
     + i. sitä siirretään krokkauksen yhteydessä säännön 3.6 mukaan
 - (d) Elävä ja kuollut pallo (krokkaus kerran per lyöntivuoro) 
@@ -136,7 +138,7 @@ vielä maalitikkuun. Katso lyhennetyssä pelissä [kappale 8](#8-lyhennetty-peli
 ### 2.4. Ulkopuolinen tekijä
 - (a) Ulkopuolisia tekijöitä ovat kaikki peliin suoraan kuulumattomat asiat ja esineet esimerkiksi eläimet, katsojat, konklaavi(jos ei mukana pelissä pelaajana), muiden pelien pelaajat ja pelivälineet, käsipallo, pelistä poistettu pallo, kentälle pelin aikana tuodut muut esineet
 - (b) Ulkopuolisia tekijöitä eivät ole 
-  * a.Pelaaja ja hänen maila tai muut varusteet 
+  * a. Pelaaja ja hänen maila tai muut varusteet 
   * b. Sääilmiöt 
   * c. Kentällä olevat irtaimet oksat, risut, roskat tai vastaavat.
   * d. Kenttään kiinteästi kuuluvat esineet kuten portit, tolpat, rajatikut, juurakot, puut, liikennemerkit, valaisinpylväät, penkit, aidat tai vastaavat.
@@ -148,11 +150,11 @@ vielä maalitikkuun. Katso lyhennetyssä pelissä [kappale 8](#8-lyhennetty-peli
 - (b) Voittaja on pelaaja, jonka pallo kiertää radan hyväksytysti ja osuu maalitolppaan ensimmäisenä
 
 ### 3.1. Pelin aloitus ja pelijärjestyksen määräytyminen
-- (a) Pelin lyöntijärjestys määräytyy tarkkuuslyönneillä rataesittelyn jälkeen.
-- (b) Pelaajat lyövät palloa vuorotellen yhden kerran kohti aloitustolppaa konklaavin osoittamasta paikasta konklaavin määräämässä järjestyksessä. Jos konklaavi on pelissä mukana, niin hän lyö tarkkuuslyönnin viimeisenä.
-- (c) Tarkkuuslyönneissä pallot jäävät paikoilleen. Pelaajat valitsevat lyöntivuoron tarkkuuslyönnin tulosten määräämässä järjestyksessä. Pelaaja, joka pallollaan pääsee lähimmäksi lähtötolppaa, saa ensimmäisenä valita lyöntivuoronsa.
-- (d) Peli aloitetaan pelaajien valitsemassa järjestyksessä. Tasoittavaa vuoroa ei ole pelin lopussa.
-- (e) Aloituslyönti radalle suoritetaan lähtötolpalta, korkeintaan puolen metrin (0,5m) etäisyydeltä tolpasta.
+- (a) Pelin lyöntijärjestys määräytyy lähtötolpassa olevien värien mukaan siten, että ylimpänä olevan värin mukaisella mailalla pelaava pelaaja on ensimmäisenä vuorossa.
+- (b) Peli aloitetaan edellä mainitussa järjestyksessä, ellei konklaavi ole pakottavasta syystä valinnut muuta järjestysmenettelyä. Tasoittavaa vuoroa ei ole pelin lopussa.
+- (c) Aloituslyönti suoritetaan mailanmitan etäisyydeltä lähtötolpalta.
+- (d) Mikäli pelaajan aloituslyönti osuu lähtötolppaan, pelaaja saa lisälyönnin ja pääsee etenemään radalle.
+- (e) Muussa tapauksessa pelaajan pallo poistetaan pelistä ja lyöntivuoro siirtyy seuraavalle. Pelaaja yrittää aloituslyöntiä uudestaan seuraavalla vuorollaan.
 
 ### 3.2. Pallo ulos pelialueelta
 - (a) Mikäli pallo ajautuu kokonaan pelialueen ulkopuolelle, konklaavin tehtävä on osoittaa paikka, josta pallo ylitti pelialueen ja johon pallo siirretään välittömästi takaisin.
@@ -160,15 +162,14 @@ vielä maalitikkuun. Katso lyhennetyssä pelissä [kappale 8](#8-lyhennetty-peli
 - (c) Jos pelaajalla ei ole lisälyöntejä eikä lyöjän pallo ole osunut eläviin palloihin, kun pallo ajautuu kentältä, on lyöntivuoro ohi.
 - (d) Jos pelaajalla on lisälyöntejä eikä lyöjän pallo ole osunut eläviin palloihin, kun pallo ajautuu kentältä, hän menettää lisälyönnit. Ja lyöntivuoro on ohi.
 - (e) Jos lyöjän pallo on osunut elävään palloon ja lyöjän pallo ajautuu pelialueelta pois, krokeeraukset mitätöidään ja pelaajan lyöntivuoro on ohi.
-- (f) Jos lyöjän pallo on osunut elävään palloon ja kohde pallo ajautuu pelialueelta pois, siirretään kohdepallo pelialueen rajalle. Ja tämän jälkeen peliä jatketaan kohdan 3.6 mukaan.
+- (f) Jos lyöjän pallo on osunut elävään palloon ja kohdepallo ajautuu pelialueelta pois, siirretään kohdepallo pelialueen rajalle. Ja tämän jälkeen peliä jatketaan kohdan 3.6 mukaan.
 
 ### 3.3. Mahdoton lyöntipaikka
 - (a) Jos pelin aikana ilmenee pelialueeseen kuuluva paikka, josta palloa ei voi lyödä pois, konklaavi voi määrittää alueen pelialueen ulkopuoliseksi pelin loppuun asti.
-- (b) Tällainen uusi mahdoton lyöntipaikka voi olla esimerkiksi rataesittelyssä mainitsematon myyrän kolo, oravan pesä, kukkaistutus, talon kulmaus, juurakko, kiven kolo, terassirakennelma tai muu vastaava paikka
+- (b) Tällainen uusi mahdoton lyöntipaikka voi olla esimerkiksi rataesittelyssä mainitsematon kukkaistutus, talon kulmaus, kiven kolo, terassirakennelma tai muu vastaava paikka.
 - (c) konklaavin tulee ilmoittaa uudesta pelialueen ulkopuolisesta alueesta kaikille pelaajille.
 - (d) konklaavin määritettyä alueen pelialueeseen kuulumattomaksi, siihen sovelletaan sääntöä 3.2,
-- (e) Jos pallo on mennyt mahdottomaan lyöntipaikkaan ennen kuin konklaavi on määrittänyt sen pelialueen ulkopuolelle, pelaaja ei menetä lisälyöntejään. Pallo tuodaan mahdottoman lyöntipaikan reunaan konklaavin ilmoituksen jälkeen
-- (f) ja pelaaja voi jatkaa vuoroaan normaalisti. Jos pelaaja on jo yrittänyt lyödä palloa pois paikasta, jonka konklaavi määrittää mahdottomaksi lyöntipaikaksi, suoritettuja lyöntejä ei hyvitetä.
+- (e) Jos pallo on mennyt mahdottomaan lyöntipaikkaan, jota ei ole määritelty pelialueen ulkopuoliseksi, pelaaja voi siirtää pallon lähimpään pelattavaan paikkaan, eli mahdottoman lyöntipaikan reunalle. Tällöin pelaaja menettää lyöntivuoronsa.
 
 ### 3.4. Portin läpäisy
 - (a) Portti katsotaan läpäistyksi hyväksyttävästi, mikäli pallo läpäisee läpäisyvuorossa olevan portin oikeasta suunnasta. Portin hyväksyttävästä läpäisystä saa lisälyönnin. Katso kuvat 1a ja 1b
@@ -323,7 +324,8 @@ tässä järjestyksessä
 - (a) Pelaaja on poistettava kentältä ja näytettävä punainen kortti, jos hän syyllistyy johonkin seuraavista rikkomuksesta: 
   * a. syyllistyy törkeään epäurheilijamaiseen käytökseen 
   * b. käyttää hävytöntä, loukkaavaa tai solvaavaa kieltä 
-  * c. saa toisen varoituksen samassa ottelusa
+  * c. saa toisen varoituksen samassa ottelussa
+
 - (b) Pelaaja, jonka konklaavi on poistanut kentältä, on poistuttava pelikentän läheisyydeltä. Hylätyn pelaajan pallo poistetaan välittömästi pelistä
 
 ## 8. Lyhennetty peli
