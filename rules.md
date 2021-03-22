@@ -5,6 +5,10 @@ Espoo
 # Kaljakroketin viralliset säännöt
 
 - [1. Johdanto](#1-johdanto)
+  * [1.1. Roolit](#11-roolit)
+    + [1.1.1 Pelaaja](#111-pelaaja)
+    + [1.1.2 Konklaavi](#112-konklaavi)
+    + [1.1.3 Ratamestari](#113-ratamestari)
   * [1.2. Pelialue ja rata](#12-pelialue-ja-rata)
   * [1.3 Pelivälineet](#13-pelivälineet)
     + [1.3.1. Lähtö- ja maalitolppa](#131-lähtö--ja-maalitolppa)
@@ -28,7 +32,7 @@ Espoo
   * [4.1 Yleistä](#41-yleistä)
   * [4.2 Lyönnin mitätöinti](#42-lyönnin-mitätöinti)
   * [4.3 Pelaamisen estäminen](#43-pelaamisen-estäminen)
-  * [4.4 Väärän portin läpäisy](#44-väärän-portin-läpäisy)
+  * [4.4 Virheellinen peluujärjestys tai -suunta](#44-virheellinen-peluujärjestys-tai--suunta)
   * [4.5 Portin irtoaminen](#45-portin-irtoaminen)
   * [4.6 Maali- tai lähtötolpan irtoaminen](#46-maali--tai-lähtötolpan-irtoaminen)
   * [4.7 Väärän portin läpäisy](#47-väärän-portin-läpäisy)
@@ -93,10 +97,10 @@ suorat ja sileät. Jos pelaajan mailan päät eivät ole samanlaiset, konklaavi 
 
 ## 2. Määritelmiä
 ### 2.1. Pelin alku, pelin loppu, lyöntivuoro
-- (a) Peli alkaa, kun ensimmäinen pelaaja lyö ensimmäisen lyönnin sääntöjen 2.2 ja 3.1(e) mukaisesti.
+- (a) Peli alkaa, kun pelijärjestyksessä ensimmäinen pelaaja lyö ensimmäisen lyönnin sääntöjen 2.2 ja [3.1](#31-pelin-aloitus-ja-pelijärjestyksen-määräytyminen) mukaisesti.
 - (b) Lyöntivuoro loppuu, kun 
   * a. Pelaaja on lyönyt palloa ja pallo ei läpäise porttia eikä osu elävään palloon eikä pelaajalla ei ole kumulatiivisesti kerääntyneitä lisälyöntejä jäljellä; tai 
-  * b. Pelaajan pallo ajautuu pelialueelta ulos säännön 3.2 mukaan; tai 
+  * b. Pelaajan pallo ajautuu pelialueelta ulos säännön [3.2](#32-pallo-ulos-pelialueelta) mukaan; tai 
   * c. Pelaaja kieltäytyy lyömästä palloa; tai 
   * d. Pelaaja luulee lyöntivuoronsa loppuneen ja lopettaa pelaamisen. Ja seuraava pelaaja ehtii lyömään palloa; tai 
   * e. Pelaaja tekee virheen, josta rangaistuksena on lyöntivuoron loppuminen ja sakko; tai 
@@ -122,14 +126,15 @@ pois. Jos pelaaja lyö seuraavan lyönnin samasta lyöntiasennosta, lyöntiliike
 - (I) Jos mikään pallo ei liiku pallon halkaisijan mittaa, lyöntiä ei ole tapahtunut ja lyöjä voi aloittaa lyönnin ja lyöntiliikkeen uudestaan.
 
 ### 2.3. Pallon tilat
-- (a) Pallon sanotaan olevan pelissä, kun se on pelattu sinne sääntöjen 3.1 ja 2.2 mukaan 
+- (a) Pallon sanotaan olevan pelissä, kun se on pelattu sinne sääntöjen [3.1.](#31-pelin-aloitus-ja-pelijärjestyksen-määräytyminen) ja 2.2 mukaan 
   * a. Pallo on pelissä, 
-    + i. kunnes se poistetaan pelistä sen lyönnin jälkeen, jolla pallo on osunut maalitolppaan (säännön 3.5 mukaan)
-    + ii. tai jos pallo poistetaan pelistä säännöt (rangaistukset) mukaan
+    + i. kunnes se poistetaan pelistä sen lyönnin jälkeen, jolla pallo on osunut maalitolppaan (säännön 3.5 mukaan); tai
+    + ii. kunnes se poistetaan pelistä epäonnistuneen aloituslyönnin seurauksena (3.1); tai
+    + iii. kunnes pallo poistetaan pelistä muiden sääntöjen mukaan (rangaistukset)
 - (b) Pallon sanotaan olevan levossa, kun se on pelissä 2.3(a):n mukaan ja liikkumatta paikoillaan kentällä. 
   * a. Pallosta tulee pallo levossa 
-    + i.jos pallo lyönninseurauksena on liikkunut ja pysähtynyt eikä siitä tule käsipallo; tai 
-    + ii.kun käsipallo sijoitetaan kentän rajalle tai kentälle 
+    + i. jos pallo lyönnin seurauksena on liikkunut ja pysähtynyt eikä siitä tule käsipallo; tai 
+    + ii. kun käsipallo sijoitetaan kentän rajalle tai kentälle 
   * b. Pallo ei ole enää pallo levossa, kun 
     + i. se lyönnin tai toisten pallojen vaikutuksesta on lähtenyt liikkeelle; tai 
     + ii. kun siitä tulee käsipallo
@@ -143,10 +148,10 @@ pois. Jos pelaaja lyö seuraavan lyönnin samasta lyöntiasennosta, lyöntiliike
 - (d) Elävä ja kuollut pallo (krokkaus kerran per lyöntivuoro) 
   * a. Muut pelissä olevat pallot kuin lyöjän pallo, ovat eläviä tai kuolleita riippuen siitä saako pelaaja krokeerata niitä vai ei. 
   * b. Palloa, jota pelaaja saa krokeerata, kutsutaan eläväksi palloksi 
-    + i. Sillä hetkellä, kun pelaajan pallo läpäisee ensimmäisen portin, muuttuvat muut pallot, jotka ovat myös läpäisseet ensimmäisen portin, eläviksi ja niistä voi ottaa lisälyöntejä krokeeraamalla. 
-    + ii. Kaikki pelissä olevat pallot ovat lyöntivuoron alkaessa eläviä.
+    + i. Sillä hetkellä, kun pelaajan pallo osuu aloituskeppiin aloituslyönnin seurauksena, muuttuvat muut pallot, jotka ovat pelissä, eläviksi ja niistä voi ottaa lisälyöntejä krokeeraamalla. 
+    + ii. Kaikki pelissä olevat pallot ovat lyöntivuoron alkaessa eläviä, paitsi lyöntivuorolla, jolla lyödään aloituslyönti.
   * c. Palloa, jota pelaaja ei saa krokeerata, kutsutaan kuolleeksi palloksi 
-    + i. Kun pelaaja osuu elävään palloon(eli krokeeraa), muuttuu se kuolleeksi palloksi ja krokeerattu pallo pysyy kuolleena kunnes se tulee taas eläväksi seuraavan lyöntivuoron alkaessa 
+    + i. Kun pelaaja osuu elävään palloon (eli krokeeraa), muuttuu se kuolleeksi palloksi ja krokeerattu pallo pysyy kuolleena kunnes se tulee taas eläväksi tulevan lyöntivuoron alkaessa 
     + ii. Jos pelaaja krokeeraa kuollutta palloa, pelaaja ei saa krokata sitä eikä pelaaja saa lisälyöntejä kyseisestä osumasta.
 - (e) Rover-pallo on pallo, joka on läpäissyt kaikki portit, mutta ei ole osunut
 vielä maalitikkuun. Katso lyhennetyssä pelissä [kappale 8](#8-lyhennetty-peli).
@@ -159,7 +164,7 @@ vielä maalitikkuun. Katso lyhennetyssä pelissä [kappale 8](#8-lyhennetty-peli
   * c. Kentällä olevat irtaimet oksat, risut, roskat tai vastaavat.
   * d. Kenttään kiinteästi kuuluvat esineet kuten portit, tolpat, rajatikut, juurakot, puut, liikennemerkit, valaisinpylväät, penkit, aidat tai vastaavat.
 - (c) Ulkopuoliset tekijät tulee poistaa kentältä, jos on vaara, että ne vaikuttavat peliin. Katso myös [sääntö 4.3](#43-pelaamisen-estäminen) pelaamisen estämisestä.
-- (d) Tarvittaessa konklaavi päättää onko kentällä oleva asia ulkopuolinen tekijä ja saako sen poistaa. Ilman lupaa tapahtuva kentän raivaaminen ja kuohiminen on rangaistavaa -katso sääntö 7.1.
+- (d) Tarvittaessa konklaavi päättää onko kentällä oleva asia ulkopuolinen tekijä ja saako sen poistaa. Ilman lupaa tapahtuva kentän raivaaminen ja kuohiminen on rangaistavaa -katso sääntö [7.1](#71-varoitettavat-rikkomukset).
 
 ## 3. Pelin kulku
 - (a) Pelin tavoitteena on lyödä pallo kentällä olevien porttien läpi oikeassa järjestyksessä ja tämän jälkeen osua pallolla maalitolppaan.
@@ -184,7 +189,7 @@ vielä maalitikkuun. Katso lyhennetyssä pelissä [kappale 8](#8-lyhennetty-peli
 - (a) Jos pelin aikana ilmenee pelialueeseen kuuluva paikka, josta palloa ei voi lyödä pois, konklaavi voi määrittää alueen pelialueen ulkopuoliseksi pelin loppuun asti.
 - (b) Tällainen uusi mahdoton lyöntipaikka voi olla esimerkiksi rataesittelyssä mainitsematon kukkaistutus, talon kulmaus, kiven kolo, terassirakennelma tai muu vastaava paikka.
 - (c) konklaavin tulee ilmoittaa uudesta pelialueen ulkopuolisesta alueesta kaikille pelaajille.
-- (d) konklaavin määritettyä alueen pelialueeseen kuulumattomaksi, siihen sovelletaan sääntöä 3.2,
+- (d) konklaavin määritettyä alueen pelialueeseen kuulumattomaksi, siihen sovelletaan sääntöä [3.2](#32-pallo-ulos-pelialueelta),
 - (e) Jos pallo on mennyt mahdottomaan lyöntipaikkaan, jota ei ole määritelty pelialueen ulkopuoliseksi, pelaaja voi siirtää pallon lähimpään pelattavaan paikkaan, eli mahdottoman lyöntipaikan reunalle. Tällöin pelaaja menettää lyöntivuoronsa.
 
 ### 3.4. Portin läpäisy
@@ -235,7 +240,7 @@ tässä järjestyksessä
     2. Toinen läpäisysuunta on pelaajan valittavissa siten, että läpäisysuunta on kohtisuorassa ensimmäiseen läpäisysuuntaan.
 - (d) Pallon on läpäistävä kirkko yhdestä suunnasta tulematta välillä ulos. Jos pallo käy lyönnin aikana ulkona, mutta palaa sisään, uloskäymisellä ei ole merkitystä.
 - (e) Kirkkoporttia ei tarvitse läpäistä yhdellä lyönnillä. Jos pallo läpäisee kirkon väärin tulemalla sivusta ulos ja pallo jää lepoon kirkkoportin ulkopuolelle, läpäisyllä ei ole mitään merkitystä.
-- (f) Kirkkoportti on läpäisty yhteen suuntaan, kun pallo on tullut kirkosta kokonaan ulos. Ulostulolinjan muodostaa kuviteltu linja kahden portin tolppien välillä. Ulostulolinja tarkistetaan portin sisäpuolelta. Katso kuva 3
+- (f) Kirkkoportti on läpäisty yhteen suuntaan, kun pallo on tullut kirkosta kokonaan ulos. Ulostulolinjan muodostaa kuviteltu linja kahden portin tolppien välillä. Ulostulolinja tarkistetaan portin sisäpuolelta.
 - (g) Lisälyöntejä kirkosta saa ensimmäisestä läpäisysuunnasta yhden ja toisesta läpäisysuunnasta taas yhden. Lisälyönti on käytettävä samalla lyöntivuorolla.
 
 
@@ -264,25 +269,28 @@ tässä järjestyksessä
   * b. pelaaja yrittää läpäistä huonosti kiinnitettyä porttia 
   * c. on tapahtunut pelivirhe, jota ei ole vielä korjattu 
   * d. on vaara, että pallo osuu ulkopuoliseen tekijään
-- (c) Estäminen pitää tehdä lyöntien välillä. Jos pelaaja yrittää estää peliä kesken lyönnin, voi konklaavi rangaista pelaajaa säännön 7.1 mukaan
-- (d) Jos pelaaja pelaa vaikka häntä estetään pelaamasta, voi konklaavi rangaista pelaajaa säännön 7.1 mukaan
+- (c) Estäminen pitää tehdä lyöntien välillä. Jos pelaaja yrittää estää peliä kesken lyönnin, voi konklaavi rangaista pelaajaa säännön  [7.1](#71-varoitettavat-rikkomukset) mukaan
+- (d) Jos pelaaja pelaa vaikka häntä estetään pelaamasta, voi konklaavi rangaista pelaajaa säännön  [7.1](#71-varoitettavat-rikkomukset) mukaan
 
-### 4.4.Väärän portin läpäisy
-- (a) Väärän portin läpäisy ei ole pelivirhe.
-- (b) Portin läpäisyllä ei ole mitään merkitystä.
+### 4.4. Virheellinen peluujärjestys tai -suunta
+- (a) Pelaaja pelaa virheelliseen suuntaan, kun pelaajan pallo läpäisee portin suunnasta, joka ei ole rataesittelyssä määritelty oikeaoppiseksi.
+- (b) Pelaaja pelaa virheellisessä järjestyksessä, kun pelaajan pallo, vastoin rataesittelyn kuvaamaa järjestystä
+  * a. läpäisee jonkin portin; tai
+  * b. osuu aloitus- tai lopetustolppaan 
+- (c) Virheellinen peluujärjestys tai -suunta ei aiheuta korjaustoimenpiteitä.
 
 ### 4.5. Portin irtoaminen
-- (a) Pelaaja ei saa tahallaan irrottaa, liikuttaa, siirtää, kääntää, kaataa, vääntää tai taivuttaa portteja (7.1)
+- (a) Pelaaja ei saa tahallaan irrottaa, liikuttaa, siirtää, kääntää, kaataa, vääntää tai taivuttaa portteja ([7.1](#71-varoitettavat-rikkomukset))
 - (b) Jos portti irtoaa lyönnin aikana; 
-  * a. lyöntiliikkeen vaikutuksesta (esimerkiksi mailan tai pelaajan raajan liikkeestä), lyönti mitätöidään, mutta palloja ei siirretä takaisin(huomautus: vaikka pallo läpäisisi portin ennen irtoamista, läpäisyä ei ole tapahtunut). 
+  * a. lyöntiliikkeen vaikutuksesta (esimerkiksi mailan tai pelaajan raajan liikkeestä), lyönti mitätöidään, mutta palloja ei siirretä takaisin ja pelaajan lyöntivuoro päättyy. (huomautus: vaikka pallo läpäisisi portin ennen irtoamista, läpäisyä ei ole tapahtunut)
   * b. jonkin pallon liikkeen vaikutuksesta, lyönti mitätöidään, mutta palloja ei siirretä takaisin. 
   * c. ulkopuolisen tekijän vaikutuksesta, lyönti mitätöidään ja portti kiinnitetään takaisin alkuperäiseen asentoon ja lyönti uusitaan
 - (c) Portin irrotessa pitää se asettaa takaisin samalle paikalle, ennen kuin seuraava lyönti suoritetaan
 
 ### 4.6. Maali- tai lähtötolpan irtoaminen
-- (a) Pelaaja ei saa tahallaan irrottaa, liikuttaa, siirtää, kääntää, kaataa, vääntää tai taivuttaa maali- ja lähtötolppaa (7.1)
+- (a) Pelaaja ei saa tahallaan irrottaa, liikuttaa, siirtää, kääntää, kaataa, vääntää tai taivuttaa maali- ja lähtötolppaa ([7.1](#71-varoitettavat-rikkomukset))
 - (b) Jos maali- tai lähtötolppa irtoaa lyönnin aikana; 
-  * a. lyöntiliikkeen vaikutuksesta (esimerkiksi mailan tai pelaajan raajan liikkeestä) mikään pallo ei voi osua maalitolppaan (huomautus: vaikka pallo osuisi maalitolppaan ennen irtoamista, osumista ei huomioida). 
+  * a. lyöntiliikkeen vaikutuksesta (esimerkiksi mailan tai pelaajan raajan liikkeestä) lyönti mitätöidään, mutta palloja ei siirretä takaisin ja pelaajan lyöntivuoro päättyy (huomautus: vaikka pallo osuisi maalitolppaan ennen irtoamista, osumista ei huomioida). 
   * b. jonkin pallon liikkeen vaikutuksesta, mikään pallo ei voi osua maalitolppaan ja tulla maaliin. 
   * c. ulkopuolisen tekijän vaikutuksesta, lyönti mitätöidään ja tolppa kiinnitetään takaisin alkuperäiseen asentoon ja lyönti uusitaan
 - (c) Maali- tai lähtötolpan irrotessa pitää se asettaa takaisin samalle paikalle, ennen kuin seuraava lyönti suoritetaan
