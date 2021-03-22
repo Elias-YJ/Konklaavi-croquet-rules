@@ -43,11 +43,27 @@ Espoo
 - [9. Sääntötiivistelmä](#9-sääntötiivistelmä)
 
 ## 1. Johdanto
+### 1.1 Roolit
+#### 1.1.1 Pelaaja
+- (a) Pelaaja on henkilö, joka pelin aikana hallitsee värillä tai muulla merkinnällä määriteltyä palloa ja mailaa.
+- (b) Joukkue on joukko useampia pelaajia, joiden toimia tulkitaan kuin ne olisivat kaikki saman pelaajan tekemiä.
+- (c) Kun joukkue saa lyöntivuoron, joukkueen on määritettävä keskuudestaan yksi pelaaja, joka suorittaa lyöntivuoron vaatimat toimenpiteet. 
+
+#### 1.1.2 Konklaavi
+- (a) Konklaavin muodostavat kaikki henkilöt, jotka ovat pelissä mukana
+  * a. Itsenäisinä pelaajina
+  * b. Osana joukkuetta
+  * c. Erityisestä syystä konklaaviin nimettyinä, esimerkiksi tuomari tai erillinen ratamestari
+
+#### 1.1.3 Ratamestari
+- (a) Ratamestari on radan suunnittelusta ja rakentamisesta vastaava henkilö, joka valitaan konklaavista.
+- (b) Ratamestari vastaa siitä, että radan rakentaminen ja sen esittely suoritetaan kohdan 1.2 määritelmien mukaisesti.
+
 ### 1.2. Pelialue ja rata
-- (a) Konklaavi määrittelee pelialueen. Mikäli turnausjärjestäjä tai jokin muu taho on määritellyt pelialueen valmiiksi, tulee ratamestarin tietää pelialueen rajat.
-- (e) Radan muodostavat lähtö- ja maalitolppa (1.3.1) sekä niiden välille sijoittuvat portit (1.3.2). Maali- ja lähtötolppa voivat olla samat.
-- (f) Ratamestarin tehtävä on asettaa maali- ja lähtötolpat sekä portit radalle ja määritellä missä järjestyksessä ja mihin suuntaan portit pelataan.
-- (g) Ratamestarin tehtävä on esitellä pelialueen rajat ja rata ennen pelin alkua pelaajille. Tästä esittelystä käytetään nimeä rataesittely.
+- (a) Konklaavi määrittelee pelialueen ja sen rajat. Mikäli turnausjärjestäjä tai jokin muu taho on määritellyt pelialueen valmiiksi, tulee konklaavin noudattaa annettuja määritelmiä.
+- (b) Radan muodostavat pelialueelle asetetut lähtö- ja maalitolppa (1.3.1) sekä niiden välille sijoittuvat portit (1.3.2). Maali- ja lähtötolppa voivat olla samat.
+- (c) Porteille on määriteltävä peluujärjestys ja jokaisella portilla on oltava oikeaoppiseksi määritelty läpäisysuunta
+- (d) Ratamestarin tehtävä on esitellä pelialueen rajat ja rata ennen pelin alkua pelaajille. Tästä esittelystä käytetään nimeä rataesittely.
 
 ### 1.3 Pelivälineet
 #### 1.3.1. Lähtö- ja maalitolppa
