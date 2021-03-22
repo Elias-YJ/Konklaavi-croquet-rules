@@ -58,6 +58,7 @@ Espoo
 #### 1.3.2. Portit
 - (a) Portti on ratamestarin määrittelemä objekti, jonka kaikkien peliin osallistuvien joukkueiden pallot voivat läpäistä.
 - (b) Pelin aikana pelaaja voi konklaavin luvalla suoristaa portin.
+
 #### 1.3.3. Pallot
 - (a) Pelipallon tulee olla pyöreä, ja halkaisijan tulee olla vähintään 7 cm ja enintään 10 cm. Pallon massa tulee olla vähintään 50g, enintään 500g.
 - (c) Jokaisella saman pelin tiimillä tulee olla erivärinen pallo. Jos erivärisiä palloja ei ole tarpeeksi, samanväriset pallot tulee merkitä niin, että ne voidaan tunnistaa toisistaan.
@@ -89,9 +90,12 @@ maaliintulojärjestyksen aikarajoitteisissa peleissä säännön 8mukaan.
 
 ### 2.2. Lyönti ja lyöntiliike
 - (a) Lyönti on mailan liike, jolla lyöjä yrittää omalla lyöntivuorolla saada pallon liikkumaan. Palloa ei saa lyödä, ennen kuin edellinen lyönti on päättynyt (katso sääntö liikkuvan pallon lyömisestä 4.9)
-- (b)Lyönti ja lyöntiliike alkavat, kun mailan pää lähtee viimeiseen takaheilautukseen (backswing) ennen kuin lyöjällä on tarkoitus lyödä palloa. Jos lyönnissä ei ole takaheilautusta, lyönti alkaa, kun heilautus alkaa (forward swing)
+- (b) Lyönti ja lyöntiliike alkavat, kun mailan pää lähtee viimeiseen takaheilautukseen (backswing) ennen kuin lyöjällä on tarkoitus lyödä palloa. Jos lyönnissä ei ole takaheilautusta, lyönti alkaa, kun heilautus alkaa (forward swing)
 - (c) Lyöntiliikkeen aikana voi tapahtua lyöntivirhe. Katso kappale 5.
-- (d) Lyönti katsotaan tapahtuneeksi, kun a. Mailan pää ja pallo osuu toisiinsa; tai b. Lyöjä ilmoittaa, että hän ei halua lyödä; tai c. On tapahtunut lyöntivirhe
+- (d) Lyönti katsotaan tapahtuneeksi, kun 
+  * a. Mailan pää ja pallo osuu toisiinsa; tai 
+  * b. Lyöjä ilmoittaa, että hän ei halua lyödä; tai 
+  * c. On tapahtunut lyöntivirhe
 - (e) Jos pelaaja keskeyttää heilahdusliikkeen ennen kuin lyönti on tapahtunut, lyöntiä ei ole tapahtunut ja lyöjä voi aloittaa lyönnin ja lyöntiliikkeen uudestaan.
 - (f) Jos lyöjä lyö vahingossa palloa ennen kuin lyönti on alkanut, kaikki liikkuneet
 pallot siirretään takaisin ja lyöjä jatkaa vuoroaan. Esimerkiksi kävellessä oman pallon luokse pelaajan maila osuu palloon siten, että se liikkuu. Lyönti katsotaan kuitenkin tapahtuneeksi, jos lyöjä lyö vahingossa palloaan omalla vuorollaan, ja pallo liikkuu hyväksytysti halkaisijan mitan. Esimerkiksi kävellessä oman pallon luokse pelaajan maila osuu palloon siten, että se liikkuu
@@ -114,13 +118,13 @@ pois. Jos pelaaja lyö seuraavan lyönnin samasta lyöntiasennosta, lyöntiliike
     + ii. kun siitä tulee käsipallo
 - (c) Käsipallo
   * a. Mistä tahansa pallosta tulee käsipallo ja ulkopuolinen tekijä, kun
-    + i.se tilapäisesti poistetaan kentältä säännön 1.3.3(d) mukaan (esimerkiksi pallon rikkoutuessa) 
-    + ii.se poistuu kokonaan pelialueelta iii.sitä siirretään lyönnin mitätöinnin yhteydessä 
+    + i. se tilapäisesti poistetaan kentältä säännön 1.3.3(d) mukaan (esimerkiksi pallon rikkoutuessa) 
+    + ii. se poistuu kokonaan pelialueelta iii.sitä siirretään lyönnin mitätöinnin yhteydessä 
   * b. Lyöjän pallosta tulee käsipallo ja ulkopuolinen tekijä 
     + i. sitä siirretään krokkauksen yhteydessä säännön 3.6 mukaan
 - (d) Elävä ja kuollut pallo (krokkaus kerran per lyöntivuoro) 
   * a. Muut pelissä olevat pallot kuin lyöjän pallo, ovat eläviä tai kuolleita riippuen siitä saako pelaaja krokeerata niitä vai ei. 
-  * b.Palloa, jota pelaaja saa krokeerata, kutsutaan eläväksi palloksi 
+  * b. Palloa, jota pelaaja saa krokeerata, kutsutaan eläväksi palloksi 
     + i. Sillä hetkellä, kun pelaajan pallo läpäisee ensimmäisen portin, muuttuvat muut pallot, jotka ovat myös läpäisseet ensimmäisen portin, eläviksi ja niistä voi ottaa lisälyöntejä krokeeraamalla. 
     + ii. Kaikki pelissä olevat pallot ovat lyöntivuoron alkaessa eläviä.
   * c. Palloa, jota pelaaja ei saa krokeerata, kutsutaan kuolleeksi palloksi 
@@ -257,9 +261,12 @@ tässä järjestyksessä
 - (c) Portin irrotessa pitää se asettaa takaisin samalle paikalle, ennen kuin seuraava lyönti suoritetaan
 
 ### 4.6. Maali- tai lähtötolpan irtoaminen
-(a) Pelaaja ei saa tahallaan irrottaa, liikuttaa, siirtää, kääntää, kaataa, vääntää tai taivuttaa maali-ja lähtötolppaa (7.1)
-(b)Jos maali- tai lähtötolppa irtoaa lyönnin aikana; a.lyöntiliikkeen vaikutuksesta (esimerkiksi mailan tai pelaajan raajan liikkeestä) mikään pallo ei voi osua maalitolppaan (huomautus: vaikka pallo osuisi maalitolppaan ennen irtoamista, osumista ei huomioida). b. jonkin pallon liikkeen vaikutuksesta, mikään pallo ei voi osua maalitolppaan ja tulla maaliin. c. ulkopuolisen tekijän vaikutuksesta, lyönti mitätöidään ja tolppa kiinnitetään takaisin alkuperäiseen asentoon ja lyönti uusitaan
-(c) Maali- tai lähtötolpan irrotessa pitää se asettaa takaisin samalle paikalle, ennen kuin seuraava lyönti suoritetaan
+- (a) Pelaaja ei saa tahallaan irrottaa, liikuttaa, siirtää, kääntää, kaataa, vääntää tai taivuttaa maali- ja lähtötolppaa (7.1)
+- (b) Jos maali- tai lähtötolppa irtoaa lyönnin aikana; 
+  * a. lyöntiliikkeen vaikutuksesta (esimerkiksi mailan tai pelaajan raajan liikkeestä) mikään pallo ei voi osua maalitolppaan (huomautus: vaikka pallo osuisi maalitolppaan ennen irtoamista, osumista ei huomioida). 
+  * b. jonkin pallon liikkeen vaikutuksesta, mikään pallo ei voi osua maalitolppaan ja tulla maaliin. 
+  * c. ulkopuolisen tekijän vaikutuksesta, lyönti mitätöidään ja tolppa kiinnitetään takaisin alkuperäiseen asentoon ja lyönti uusitaan
+- (c) Maali- tai lähtötolpan irrotessa pitää se asettaa takaisin samalle paikalle, ennen kuin seuraava lyönti suoritetaan
 
 ### 4.7. Väärällä vuorolla pelaaminen
 - (a) Jos väärällä vuorolla pelaaminen havaitaan ennen seuraavan pelaajan lyöntivuoroa, lyönnit mitätöidään ja pelaaja menettää seuraavan (eli käytännössä seuraavan oikean) lyöntivuoronsa. Esimerkki: Pelissä ovat mukana A, B, C ja D. Viimeksi on lyönyt D eli on A:n vuoro. Pelaaja B ehtii lyömään, jolloin huomataan väärällä vuorolla pelaamista. Seuraavat lyönnit lyödään järjestyksessä A, C, D, A, B, C, D.
