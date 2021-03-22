@@ -80,14 +80,14 @@ suorat ja sileät. Jos pelaajan mailan päät eivät ole samanlaiset, konklaavi 
 - (a) Peli alkaa, kun ensimmäinen pelaaja lyö ensimmäisen lyönnin sääntöjen 2.2 ja 3.1(e) mukaisesti.
 - (b) Lyöntivuoro loppuu, kun 
   * a. Pelaaja on lyönyt palloa ja pallo ei läpäise porttia eikä osu elävään palloon eikä pelaajalla ei ole kumulatiivisesti kerääntyneitä lisälyöntejä jäljellä; tai 
-  * b. Pelaajan pallo ajautuu pelialueelta ulos säännön 3.2mukaan; tai 
+  * b. Pelaajan pallo ajautuu pelialueelta ulos säännön 3.2 mukaan; tai 
   * c. Pelaaja kieltäytyy lyömästä palloa; tai 
   * d. Pelaaja luulee lyöntivuoronsa loppuneen ja lopettaa pelaamisen. Ja seuraava pelaaja ehtii lyömään palloa; tai 
   * e. Pelaaja tekee virheen, josta rangaistuksena on lyöntivuoron loppuminen ja sakko; tai 
   * f. Pelaaja tulee maaliin säännön 3.5 mukaan
 - (c) Pelin voittaa se pelaaja, joka tulee ensimmäisenä maaliin säännön 3.5(b) mukaan. Toiseksi tulee se, joka tulee toisena maaliin ja niin edelleen. Katso sääntö 8 aikarajoitteisissa peleissä.
 - (d) Peli loppuu, kun kaikki pallot ovat tulleet maaliin tai konklaavi on määritellyt
-maaliintulojärjestyksen aikarajoitteisissa peleissä säännön 8mukaan.
+maaliintulojärjestyksen aikarajoitteisissa peleissä säännön 8 mukaan.
 
 ### 2.2. Lyönti ja lyöntiliike
 - (a) Lyönti on mailan liike, jolla lyöjä yrittää omalla lyöntivuorolla saada pallon liikkumaan. Palloa ei saa lyödä, ennen kuin edellinen lyönti on päättynyt (katso sääntö liikkuvan pallon lyömisestä 4.9)
@@ -98,7 +98,7 @@ maaliintulojärjestyksen aikarajoitteisissa peleissä säännön 8mukaan.
   * b. Lyöjä ilmoittaa, että hän ei halua lyödä; tai 
   * c. On tapahtunut lyöntivirhe
 - (e) Jos pelaaja keskeyttää heilahdusliikkeen ennen kuin lyönti on tapahtunut, lyöntiä ei ole tapahtunut ja lyöjä voi aloittaa lyönnin ja lyöntiliikkeen uudestaan.
-- (f) Jos lyöjä lyö vahingossa palloa ennen kuin lyönti on alkanut, kaikki liikkuneet
+- (f) Jos lyöjä liikuttaa vahingossa palloa ennen kuin lyönti on alkanut, kaikki liikkuneet
 pallot siirretään takaisin ja lyöjä jatkaa vuoroaan. Esimerkiksi kävellessä oman pallon luokse pelaajan maila osuu palloon siten, että se liikkuu. Lyönti katsotaan kuitenkin tapahtuneeksi, jos lyöjä lyö vahingossa palloaan omalla vuorollaan, ja pallo liikkuu hyväksytysti halkaisijan mitan. Esimerkiksi kävellessä oman pallon luokse pelaajan maila osuu palloon siten, että se liikkuu
 - (g) Lyöntiliike loppuu, kun pelaaja siirtyy lyöntiasennostaan (jalansijat)
 pois. Jos pelaaja lyö seuraavan lyönnin samasta lyöntiasennosta, lyöntiliike loppuu, kun aiempi lyönti loppuu.
@@ -119,8 +119,8 @@ pois. Jos pelaaja lyö seuraavan lyönnin samasta lyöntiasennosta, lyöntiliike
     + ii. kun siitä tulee käsipallo
 - (c) Käsipallo
   * a. Mistä tahansa pallosta tulee käsipallo ja ulkopuolinen tekijä, kun
-    + i.se tilapäisesti poistetaan kentältä säännön 1.3.3(d) mukaan (esimerkiksi pallon rikkoutuessa) 
-    + ii.se poistuu kokonaan pelialueelta 
+    + i. se tilapäisesti poistetaan kentältä säännön 1.3.3(d) mukaan (esimerkiksi pallon rikkoutuessa) 
+    + ii. se poistuu kokonaan pelialueelta 
     + iii. sitä siirretään lyönnin mitätöinnin yhteydessä 
   * b. Lyöjän pallosta tulee käsipallo ja ulkopuolinen tekijä 
     + i. sitä siirretään krokkauksen yhteydessä säännön 3.6 mukaan
@@ -172,17 +172,17 @@ vielä maalitikkuun. Katso lyhennetyssä pelissä [kappale 8](#8-lyhennetty-peli
 - (e) Jos pallo on mennyt mahdottomaan lyöntipaikkaan, jota ei ole määritelty pelialueen ulkopuoliseksi, pelaaja voi siirtää pallon lähimpään pelattavaan paikkaan, eli mahdottoman lyöntipaikan reunalle. Tällöin pelaaja menettää lyöntivuoronsa.
 
 ### 3.4. Portin läpäisy
-- (a) Portti katsotaan läpäistyksi hyväksyttävästi, mikäli pallo läpäisee läpäisyvuorossa olevan portin oikeasta suunnasta. Portin hyväksyttävästä läpäisystä saa lisälyönnin. Katso kuvat 1a ja 1b
-- (b) Portti katsotaan läpäistyksi väärinpäin, mikäli pallo läpäisee läpäisyvuorossa olevan portin väärästä suunnasta. Kuva t2a ja 2b. Portin läpäisy väärinpäin -pallo on tullut vasten portin oikeata kulkusuuntaa
-- (c) Mikäli pallo läpäisee portin väärinpäin (kuva 2a), portti tulee läpäistä oikeaan suuntaan ennen portin hyväksyttävää, varsinaista läpäisyä. Lisälyönnin saa vain viimeisestä, varsinaisesta läpäisykerrasta. Tätä kutsutaan solmusäännöksi.
-- (d) Portin voi läpäistä useilla lyönneillä. Eli jos pallo tulee portille portin kulkusuunnasta, mutta jää portin sisään (kuva 1a), portin voi läpäistä heti seuraavalla lyönnillä.
-- (e) Jos pallo tulee portille portin kulkusuuntaa vastaan, mutta jää portin sisään eli ei ole läpäissyt porttia (kuva 2b), portin voi läpäistä väärinpäin seuraavalla lyönnillä, jolloin pallo menee kohdan (c mukaisesti solmuun.
+- (a) Portti katsotaan läpäistyksi hyväksyttävästi, mikäli pallo läpäisee läpäisyvuorossa olevan portin oikeasta suunnasta. Pallon on läpäistävä portti kokonaan. Portin hyväksyttävästä läpäisystä saa lisälyönnin.
+- (b) Portti katsotaan läpäistyksi väärinpäin, mikäli pallo läpäisee läpäisyvuorossa olevan portin väärästä suunnasta. 
+- (c) Mikäli pallo läpäisee portin väärinpäin, portti tulee läpäistä oikeaan suuntaan ennen portin hyväksyttävää, varsinaista läpäisyä. Lisälyönnin saa vain viimeisestä, varsinaisesta läpäisykerrasta. Tätä kutsutaan solmusäännöksi.
+- (d) Portin voi läpäistä useilla lyönneillä. Eli jos pallo tulee portille portin kulkusuunnasta, mutta jää portin sisään, portin voi läpäistä heti seuraavalla lyönnillä.
+- (e) Jos pallo tulee portille portin kulkusuuntaa vastaan, mutta jää portin sisään eli ei ole läpäissyt porttia, portin voi läpäistä väärinpäin seuraavalla lyönnillä, jolloin toimitaan kohdan (c) mukaisesti.
 - (f) Epäselvissä tapauksissa pelin konklaavi tarkastaa, onko pallo läpäissyt portin vai ei. konklaavi voi tarkastaa läpäisyn optisesti tai mekaanisesti esimerkiksi liu’uttamalla mailan vartta vaakasuorassa porttilinjan mukaan.
 - (g) Portin läpäisystä oikein päin omalla vuorolla pelaaja saa yhden lisälyönnin, joka tulee käyttää saman lyöntivuoron aikana. Mikäli pallo menee portin läpi oikeasta suunnasta ja palaa portin läpi väärästä suunnasta yhdellä lyönnillä, porttia ei ole läpäisty.
 - (h) Mikäli pelaajan pallo läpäisee portin toisen pelaajan toimesta, katsotaan että portti on hyväksyttävästi läpäisty, mutta lisälyöntiä ei tule.
 - (I) Mikäli pallo läpäisee portin väärinpäin toisen pelaajan toimesta, portin läpäisyllä ei ole merkitystä.
 - (j) Pelaaja voi läpäistä yhdellä lyönnillä useamman portin, ja jokaisesta portista tulee tällöin erikseen lisälyönti –katso kohta 3.7 kumulatiivisuudesta.
-- (k) Mikäli käsipallo siirretään portin keskelle (kuva 1a ja 2b), pallo ei voi läpäistä porttia kumpaankaan suuntaan ennen kuin se on tullut portista ulos
+- (k) Mikäli käsipallo siirretään portin keskelle, pallo ei voi läpäistä porttia kumpaankaan suuntaan ennen kuin se on tullut portista ulos
 
 ### 3.5. Lähtö- ja maalitolppaan osuminen
 - (a) Pallon osumisella pelin aikana lähtötolppaan ei ole mitään merkitystä.
@@ -191,22 +191,19 @@ vielä maalitikkuun. Katso lyhennetyssä pelissä [kappale 8](#8-lyhennetty-peli
 - (d) Pallon osumisella maalitolppaan mitätöidyllä lyönnillä ei ole merkitystä. Esimerkki: Pelaajan pallo on rover-pallo. Pelaaja osuu maalitolppaan omalla pallolla, mutta mailallaan osuu vastustajan palloon. Pelaaja ei ole tullut maaliin.
 
 ### 3.6. Krokeeraus ja Krokkaus
-- (a) Osuma toisen pelaajan elävään palloon omalla pallolla omalla vuorolla antaa pelaajalle mahdollisuuden yhteen lisälyöntiin tai vastustajan pallon krokkaukseen. Tätä osumaa kutsutaan krokeeraukseksi. Krokeeraus on mahdollista niiden pelaajien kesken, joiden pallot ovat läpäisseet ensimmäisen portin hyväksytysti. Ratamestarin päätöksellä vodaan pitkillä radoilla krokeerausoikeus siirtää myöhemmille porteille. Esimerkki: Radalla on 10 porttia, ratamestarin päätöksellä krokeeraus on voimassa niiden pelaajien kesken, joiden pallot ovat läpäisseet toisen portin.
+- (a) Osuma toisen pelaajan elävään palloon omalla pallolla omalla vuorolla antaa pelaajalle mahdollisuuden yhteen lisälyöntiin tai vastustajan pallon krokkaukseen. Tätä osumaa kutsutaan krokeeraukseksi. Krokeeraus on mahdollista niiden pelaajien kesken, joiden pallot ovat läpäisseet ensimmäisen portin hyväksytysti. 
 - (b) Krokeeraus katsotaan tapahtuneeksi myös, jos pelaajan pallo on ollut lyöntivuoron alkaessa kiinni toisessa pallossa. Esimerkki: Sinisen pallon pelaajan lyöntivuoron alkaessa pallo on kiinni punaisessa pallossa. Pelaaja lyö omaa sinistä palloaan, jonka jälkeen pelaaja saa krokata punaista tai pelata lisälyönnin.
 - (c) Mikäli pelaaja osuu pallollaan useaan elävään palloon samalla lyönnillä, hän on oikeutettu saamaan jokaisesta osumasta yhden lisälyönnin tai mahdollisuuden krokata. Pelaajan tulee suorittaa krokkaukset ja lisälyönnit
 tässä järjestyksessä 
-    1. Pelaaja saa krokata jalalla tai jalattomasti pelaajan valitsemassa järjestyksessä haluamiansa palloja 
+    1. Pelaaja saa krokata haluamiansa palloja krokeerausjärjestyksessä.
     2. Pelaaja saa yhden lisälyönnin niistä palloista, joita hän ei ole krokannut edellisessä kohdassa
 - (d) Krokkaus
   * a. Krokkauksessa pelaaja siirtää oman pallonsa krokattavaan palloon kiinni, mutta irti muista palloista ja maalitolpasta.
-  * b. Pelaaja voi asettaa jalkapohjansa oman pallonsa päälle, mutta irti krokattavasta pallosta. 
-  * c. Pelaaja lyö omaa palloaan niin, että vastustajan pallo liikkuupois paikoiltaan krokkauslyönnin seurauksena pallon halkaisijan mitan. 
-  * d. Jos vastustajan pallo ei liiku pois paikaltaan pallon halkaisijan mittaa, krokkaus lyönti on mitätön (4.2). Pallot jäävät paikoilleen ja lyöjä menettää mahdolliset loput lisälyönnit. Pelaajan vuoro päättyy. 
-  * e. Krokatessa pallo voi vatläpäistä portteja tai osua maalitolppaan. 
-  * f. Krokatessa pelaajan pallo voi krokeerata eläviä palloja, tällöin pelaamattomat lisälyönnit pelataan vasta uusien krokkausten jälkeen. 
-  * g. Jos krokkauksen yhteydessä jokin pallo ajautuu kentän rajojen ulkopuolelle on krokkauslyönti mitätön (4.2). Pallot siirretään takaisin ja lyöjä menettää mahdolliset loput lisälyönnit. Pelaajan vuoro päättyy.
+  * b. Pelaaja asettaa jalkapohjansa oman pallonsa päälle, mutta irti krokattavasta pallosta. 
+  * c. Pelaaja lyö omaa palloaan niin, että vastustajan pallo liikkuu pois paikoiltaan krokkauslyönnin seurauksena 
+  * d. Krokatessa pallot voivat läpäistä portteja tai osua maalitolppaan. 
 - (e) Lisälyönti 
-  * a.Pelaaja lyö omaa palloaan sieltä, mihin se on edellisen lyönnin tai mahdollisten krokkausten jälkeen jäänyt.
+  * a. Pelaaja lyö omaa palloaan sieltä, mihin se on edellisen lyönnin tai mahdollisten krokkausten jälkeen jäänyt.
 - (f) Jos pelaaja krokkaa useita palloja, aiemmilla krokkauslyönneillä mahdollisesti liikkuneet pallot krokataan sieltä, mihin ne ovat jääneet aiempien krokkausten seurauksena.
 
 ### 3.7. Kumulatiivisuus
@@ -233,7 +230,12 @@ tässä järjestyksessä
 - (b) Pelaajan pitää välittömästi tehtyään tai epäillessään tehneensä pelivirheen ilmoittaa siitä ja keskeyttää pelaaminen kunnes asia on selvitetty.
 
 ### 4.2. Lyönnin mitätöinti
-- (a) Lyönnin mitätöinti tarkoittaa a. Liikkuneet pallot siirretään takaisin, ellei muuta mainita säännöissä b. Krokeeraukset mitätöidään c. Porttien läpäisyt mitätöidään d. Maalitolppaan osuminen mitätöidään e. Pelaaja voi jatkaa pelaamista, mikäli hänellä on vielä lisälyöntejä jäljellä.
+- (a) Lyönnin mitätöinti tarkoittaa 
+  * a. Liikkuneet pallot siirretään takaisin, ellei muuta mainita säännöissä 
+  * b. Krokeeraukset mitätöidään 
+  * c. Porttien läpäisyt mitätöidään 
+  * d. Maalitolppaan osuminen mitätöidään 
+  * e. Pelaaja voi jatkaa pelaamista, mikäli hänellä on vielä lisälyöntejä jäljellä.
 
 ### 4.3. Pelaamisen estäminen
 - (a) Vastustajan ei tarvitse estää peliä tai varoittaa pelaajaa, jos pelaaja aikoo 
@@ -292,8 +294,8 @@ tässä järjestyksessä
   * d. Lyö palloa työntäen siten, että kontakti mailan ja pallon välillä säilyy pitkään 
   * e. Lyö palloa useammin kuin kerran yhdellä lyönnillä (tiritiri) 
   * f. Lyö mailalla tai muuten osuu toisen palloon, siten että toisen pallo liikkuu pois paikoiltaan 
-  * g. Krokatessa vastustajan pallo ei liiku pois paikoiltaan halkaisijan mittaa. 
-  * h.Lyö mailallaan niin, että se aiheuttaa merkittävää vauriota pelikenttään tai ympäristöön.
+  * g. Krokatessa pelaajan pallo liikkuu pois paikoiltaan. 
+  * h. Lyö mailallaan niin, että se aiheuttaa merkittävää vauriota pelikenttään tai ympäristöön.
 - (b) Lyöntivirheiden a, b, c, d, e, g ja h jälkeen pallot jäävät paikoilleen ja pelaajan lyöntivuoro on ohi
 - (c) Lyöntivirhe 5f jälkeen pelaajan lyönti mitätöidään (4.2) ja pelaajan lyöntivuoro on ohi.
 
