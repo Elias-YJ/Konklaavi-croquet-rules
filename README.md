@@ -1,2 +1,3 @@
-# Konklaavin-s-nt-projekti
+# Konklaavin sääntöprojekti
 Kroketin viralliset säännöt
+
