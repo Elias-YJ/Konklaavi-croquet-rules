@@ -87,7 +87,7 @@ Espoo
 - (b) Mailan varsi voi olla valmistettu mistä tahansa materiaalista. Mailan varteen saa asentaa gripin. Varsi ei saa olla muovattu pelaajan käden minkään osan muotoon.
 - (c) Mailan pään tulee olla kova ja materiaaliltaan sekä rakenteeltaan sellainen, ettei se vahingoita palloja. Mailan molempien päiden tulee olla samanlaiset,
 suorat ja sileät. Jos pelaajan mailan päät eivät ole samanlaiset, konklaavi määrää kummalla päällä pelaajan on pelattava.
-- (d) Pelissä käytettävien mailojen tulee olla yhtä pitkiä. Mailojen pituus mitataan varren suunnassa varren päästä molon reunaan asti, ja siitä käytetään nimitystä mailanmitta.
+- (d) Pelissä käytettävien mailojen tulee olla yhtä pitkiä. Mailojen pituus mitataan varren suunnassa varren päästä molon reunaan asti, ja siitä käytetään nimitystä mailanmitta. Jos yhtä pitkien mailojen käyttäminen ei ole mahdollista, voidaan mailanmitaksi määritellä vaihtoehtoinen ja tarkoituksen mukainen mitta, esimerkiksi mailojen mediaanipituus.
 - (e) Kaikenlaisten tähtäimien, peilien ja muiden apuvälineiden liittäminen mailaan on kielletty. Mailan varren ei kuitenkaan tarvitse olla suora ja mailan päässä voi olla piirrettynä tähtäysviivoja.
 - (f) Mailaa ei saa vaihtaa pelin aikana, ellei se ole pelissä vahingossa vaurioitunut niin, että se vaikuttaa merkittävästi pelaamiseen. Vaurioituneella mailalla saa pelata vain, jos siitä ei saa hyötyä pelaamiseen. Pelaaja voi vaihtaa vaurioituneen mailan ainoastaan konklaavin luvalla tai konklaavin vaatimuksesta.
 
@@ -370,31 +370,21 @@ tässä järjestyksessä
 - (d) Ensimmäinen pelaaja, joka osuu pallollaan omalla lyöntivuorollaan maalitolppaan kierrettyään radan portit hyväksytysti, on pelin voittaja.
 
 ### Pelin kulku
-1. Tarkkuuslyönti ratkaisee pelaajien lyöntijärjestyksen.
-2. Tarkkuuslyönnissä pallo yritetään saada sovitusta kohdasta lyödyksi yhdellä lyönnillä mahdollisimman lähelle lähtötolppaa (pallot jäävät paikoilleen kunnes kaikki ovat lyöneet tarkkuuslyönnin). Se pelaaja, kenen pallo jää lähimmäksilähtötolppaa, saa ensimmäisenä valita oman peli/lyöntivuoronsa pelissä.
-Pelaaja voi valita minkä tahansa vapaan lyöntivuoron ensimmäisestä lyöjästä
-viimeiseen.
-3. Aloituslyönti lyödään max 50 cm päästä lähtötikusta lyöntivuorojen määrämässä järjestyksessä mihin tahansa suuntaan pelialueella. Portin saa
-läpäistä heti aloituslyönnillä. Portti on läpäisty kun pallo on mennyt oikeasta
-suunnasta kokonaan portin läpi.
-4. Jokainen hyväksytty portin läpäisy tuottaa kukin yhden lisälyönnin. Lisälyönti
+1. Lyöntijärjestys määräytyy aloitustolpan ja pelaajien edustamien värien mukaan.
+2. Aloituslyönti lyödään mailanmitan päästä aloitustolpasta. Jos pelaaja osuu aloituslyönnillään aloitustolppaan, pelaaja saa uuden lyöntivuoron ja voi aloittaa radan kiertämisen. Muutoin pelaaja poistaa pallonsa pelistä ja yrittää aloituslyöntiä uudestaan seuraavalla lyöntivuorollaan.
+3. Jokainen hyväksytty portin läpäisy tuottaa kukin yhden lisälyönnin. Lisälyönti
 tulee käyttää välittömästi samalla vuorolla.
-5. Läpäistävänä olevaa porttia ei saa läpäistä väärästä suunnasta. Jos näin
+4. Läpäistävänä olevaa porttia ei saa läpäistä väärästä suunnasta. Jos näin
 tapahtuu, täytyy portti läpäistä oikein päin kahdesti ja lisälyönnin saa vain
 viimeisestä läpäisystä.
-6. Pelaajan osuma omalla pallolla toisen pelaajan palloon (krokeeraus) tuottaa
+5. Pelaajan osuma omalla pallolla toisen pelaajan palloon (krokeeraus) tuottaa
 pelaajalle mahdollisuuden lisälyöntiin tai krokkaukseen. Lisälyönti tai krokkaus
-on suoritettava välittömästi osuman jälkeen samalla vuorolla. Krokeerauksen
-tuottamat lisälyönnit ja krokkausmahdollisuudet ovat voimassa vain niiden
-pelaajien kesken, joiden pallo on läpäissyt ensimmäisen portin. Krokeerauksesta samaan palloon saa vain yhden lisälyönnin tai krokkauksen
-pelivuoron aikana. Yhdellä lyönnillä voi krokeerata useampia palloja.
-7. Krokkauksessa pelaaja siirtää oman pallonsa krokeerattuun palloon kiinni ja
-lyö omaa palloaan siten, että vastustajan pallo kimpoaa pois. Krokatessa pelaaja voi asettaa oman jalkansa oman pallon päälle. Jalalla krokatessa oma pallo saa siirtyä jalan alta.
-8. Jos pelaajan pallo ajautuu ulos pelialueelta, pallo nostetaan pelialueen rajalle
+on suoritettava välittömästi osuman jälkeen samalla vuorolla. Krokeerauksesta samaan palloon saa vain yhden lisälyönnin tai krokkauksen
+lyöntivuoron aikana. Yhdellä lyönnillä voi krokeerata useampia palloja.
+6. Krokkauksessa pelaaja siirtää oman pallonsa krokeerattuun palloon kiinni ja
+lyö omaa palloaan siten, että vastustajan pallo kimpoaa pois. Krokatessa pelaaja asettaa oman jalkansa oman pallon päälle. Oma pallo ei saa siirtyä jalan alta.
+7. Jos pallo ajautuu ulos pelialueelta, pallo nostetaan pelialueen rajalle
 kohtaan josta pallo meni yli.
-9. Jos krokeerattu pallo ajautuu ulos pelialueelta, pallo nostetaan pelialueen
-rajalle kohtaan, josta pallo meni yli, ja mahdollinen krokkaus suoritetaan pallon
-vierestä.
-10.Jos krokauslyönnin seurauksena jokin pallo ajautuu ulos pelialueelta, on kyseessä pelivirhe ja lyönti mitätöidään. Pallot siirretään takaisin ja lyöjä menettää mahdolliset loput lisälyönnit. Pelaajan vuoro päättyy.
+8. Voittaja on pelaaja, jonka pallo kiertää radan hyväksytysti ja osuu maalitolppaan ensimmäisenä
 
 
