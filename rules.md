@@ -161,7 +161,7 @@ vielä maalitikkuun. Katso lyhennetyssä pelissä [kappale 8](#8-lyhennetty-peli
   * a. Pelaaja ja hänen maila tai muut varusteet 
   * b. Sääilmiöt 
   * c. Kentällä olevat irtaimet oksat, risut, roskat tai vastaavat.
-  * d. Kenttään kiinteästi kuuluvat esineet kuten portit, tolpat, rajatikut, juurakot, puut, liikennemerkit, valaisinpylväät, penkit, aidat tai vastaavat.
+  * d. Kenttään kiinteästi kuuluvat esineet kuten portit, tolpat, rajatikut, juurakot, puut, liikennemerkit, valaisinpylväät, penkit, aidat tai vastaavat. Myös ennen peliä pelialuelle jätetyt pelaajen kassit tai vastaavat varusteet.
 - (c) Ulkopuoliset tekijät tulee poistaa kentältä, jos on vaara, että ne vaikuttavat peliin. Katso myös [sääntö 4.3](#43-pelaamisen-estäminen) pelaamisen estämisestä.
 - (d) Tarvittaessa konklaavi päättää onko kentällä oleva asia ulkopuolinen tekijä ja saako sen poistaa. Ilman lupaa tapahtuva kentän raivaaminen ja kuohiminen on rangaistavaa -katso sääntö [7.1](#71-varoitettavat-rikkomukset).
 
@@ -177,7 +177,7 @@ vielä maalitikkuun. Katso lyhennetyssä pelissä [kappale 8](#8-lyhennetty-peli
 - (e) Muussa tapauksessa pelaajan pallo poistetaan pelistä ja lyöntivuoro siirtyy seuraavalle. Pelaaja yrittää aloituslyöntiä uudestaan seuraavalla vuorollaan.
 
 ### 3.2. Pallo ulos pelialueelta
-- (a) Mikäli pallo ajautuu kokonaan pelialueen ulkopuolelle, konklaavin tehtävä on osoittaa paikka, josta pallo ylitti pelialueen ja johon pallo siirretään välittömästi takaisin.
+- (a) Mikäli pallo ajautuu kokonaan pelialueen ulkopuolelle, konklaavin tehtävä on osoittaa paikka, josta pallo ylitti pelialueen ja johon pallo siirretään välittömästi takaisin. Yleisenä käytäntönä on pelialueen piste, joka on palloa lähimpänä.
 - (b) Jos pallo palaa takaisin kentälle pelialueen ulkopuolelta, se on säännön 2.4 kuvaama ulkopuolinen tekijä.
 - (c) Jos pelaajalla ei ole lisälyöntejä eikä lyöjän pallo ole osunut eläviin palloihin, kun pallo ajautuu kentältä, on lyöntivuoro ohi.
 - (d) Jos pelaajalla on lisälyöntejä eikä lyöjän pallo ole osunut eläviin palloihin, kun pallo ajautuu kentältä, hän menettää lisälyönnit. Ja lyöntivuoro on ohi.
@@ -244,6 +244,7 @@ vielä maalitikkuun. Katso lyhennetyssä pelissä [kappale 8](#8-lyhennetty-peli
 ### 4.1. Yleistä
 - (a) Pelaaja ei saa tahallaan tehdä pelivirhettä
 - (b) Pelaajan pitää välittömästi tehtyään tai epäillessään tehneensä pelivirheen ilmoittaa siitä ja keskeyttää pelaaminen kunnes asia on selvitetty.
+- (c) Pelivuoro päättyy pelivirheeseen.
 
 ### 4.2. Lyönnin mitätöinti
 - (a) Lyönnin mitätöinti tarkoittaa 
@@ -286,7 +287,7 @@ vielä maalitikkuun. Katso lyhennetyssä pelissä [kappale 8](#8-lyhennetty-peli
 - (a) Pelaaja ei saa tahallaan irrottaa, liikuttaa, siirtää, kääntää, kaataa, vääntää tai taivuttaa maali- ja lähtötolppaa ([7.1](#71-varoitettavat-rikkomukset))
 - (b) Jos maali- tai lähtötolppa irtoaa lyönnin aikana; 
   * a. lyöntiliikkeen vaikutuksesta (esimerkiksi mailan tai pelaajan raajan liikkeestä) lyönti mitätöidään, mutta palloja ei siirretä takaisin ja pelaajan lyöntivuoro päättyy (huomautus: vaikka pallo osuisi maalitolppaan ennen irtoamista, osumista ei huomioida). 
-  * b. jonkin pallon liikkeen vaikutuksesta, mikään pallo ei voi osua maalitolppaan ja tulla maaliin. 
+  * b. jonkin pallon liikkeen vaikutuksesta, mikään pallo ei irtoamishetken jälkeen voi osua maalitolppaan ja tulla maaliin. Tolpan irrottava pallo lasketaan osuneeksi. 
   * c. ulkopuolisen tekijän vaikutuksesta, lyönti mitätöidään ja tolppa kiinnitetään takaisin alkuperäiseen asentoon ja lyönti uusitaan
 - (c) Maali- tai lähtötolpan irrotessa pitää se asettaa takaisin samalle paikalle, ennen kuin seuraava lyönti suoritetaan
 
