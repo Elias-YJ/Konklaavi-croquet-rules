@@ -114,16 +114,15 @@ maaliintulojärjestyksen aikarajoitteisissa peleissä säännön 8 mukaan.
 - (b) Lyönti ja lyöntiliike alkavat, kun mailan pää lähtee viimeiseen takaheilautukseen (backswing) ennen kuin lyöjällä on tarkoitus lyödä palloa. Jos lyönnissä ei ole takaheilautusta, lyönti alkaa, kun heilautus alkaa (forward swing)
 - (c) Lyöntiliikkeen aikana voi tapahtua lyöntivirhe. Katso kappale 5.
 - (d) Lyönti katsotaan tapahtuneeksi, kun 
-  * a. Mailan pää ja pallo osuu toisiinsa; tai 
+  * a. Mailan pää ja pallo osuu toisiinsa siten, että pallo liikkuu selvästi havaittavan määrän; tai 
   * b. Lyöjä ilmoittaa, että hän ei halua lyödä; tai 
   * c. On tapahtunut lyöntivirhe
 - (e) Jos pelaaja keskeyttää heilahdusliikkeen ennen kuin lyönti on tapahtunut, lyöntiä ei ole tapahtunut ja lyöjä voi aloittaa lyönnin ja lyöntiliikkeen uudestaan.
-- (f) Jos lyöjä liikuttaa vahingossa palloa ennen kuin lyönti on alkanut, kaikki liikkuneet
-pallot siirretään takaisin ja lyöjä jatkaa vuoroaan. Esimerkiksi kävellessä oman pallon luokse pelaajan maila osuu palloon siten, että se liikkuu. Lyönti katsotaan kuitenkin tapahtuneeksi, jos lyöjä lyö vahingossa palloaan omalla vuorollaan, ja pallo liikkuu hyväksytysti halkaisijan mitan. Esimerkiksi kävellessä oman pallon luokse pelaajan maila osuu palloon siten, että se liikkuu
+- (f) Pallojen liikuttaminen muutoin kuin lyönnin seurauksena on pelivirhe. Katso sääntö ([4.10](#410-virheellinen-pallon-liikuttaminen)).
 - (g) Lyöntiliike loppuu, kun pelaaja siirtyy lyöntiasennostaan (jalansijat)
 pois. Jos pelaaja lyö seuraavan lyönnin samasta lyöntiasennosta, lyöntiliike loppuu, kun aiempi lyönti loppuu.
 - (h) Lyönti loppuu, kun kaikki liikkuneet pallot ovat pysähtyneet tai poistuneet pelialueelta.
-- (I) Jos mikään pallo ei liiku pallon halkaisijan mittaa, lyöntiä ei ole tapahtunut ja lyöjä voi aloittaa lyönnin ja lyöntiliikkeen uudestaan.
+- (I) Jos mikään pallo ei liiku lyönnin seurauksena, lyöntiä ei ole tapahtunut ja lyöjä voi aloittaa lyönnin ja lyöntiliikkeen uudestaan.
 
 ### 2.3. Pallon tilat
 - (a) Pallon sanotaan olevan pelissä, kun se on pelattu sinne sääntöjen [3.1.](#31-pelin-aloitus-ja-pelijärjestyksen-määräytyminen) ja 2.2 mukaan 
@@ -305,10 +304,15 @@ tässä järjestyksessä
 - (b) Jos pelaaja lyö väärää palloa ja se havaitaan seuraavan lyöntivuoron alettua, palloja ei siirretä takaisin ja pelaajat pelaavat normaalisti omia pallojaan.
 - (c) Jos pelaaja lyö tahallaan väärää palloa, katso rangaistukset kohdassa 7.
 
-### 4.9.Liikkuvan pallon lyönti
+### 4.9. Liikkuvan pallon lyönti
 - (a) Jos pelaaja lyö liikkuvaa palloa, lyönti mitätöidään ja liikkuneet pallot siirretään siihen, mihin konklaavi olisi niiden olettanut pysähtyneen tai missä ne olivat ennen lyöntiä.
 - (b) Mikäli oikeata paikkaa ei pystytä palloille määrittelemään, konklaavi määrää mistä peliä jatketaan
 - (c) Jos pelaaja lyö tahallaan liikkuvaa palloa, katso rangaistukset kohdassa 7.
+
+### 4.10. Virheellinen pallon liikuttaminen
+- (a) Pallojen liikuttaminen muutoin kuin lyönnin seurauksena tai erikseen sallituilla tavoilla, kuten pelitilannetta palauttaessa tai palloa korjatessa, on kiellettyä.
+- (b) Jos vuorossa oleva pelaaja liikuttaa palloa virheellisesti, lyöntivuoro päättyy ja virheelliseti liikutettu pallo palautetaan edellisille paikalleen.
+- (c) Jos muu pelaaja tai ulkopuolinen taho liikuttaa palloa virheellisesti, pallo palautetaan takaisin paikalleen.
 
 ## 5. Lyöntivirheet
 - (a) Lyöntivirhe tuomitaan pelaajalle, jos lyönnin aikana 
