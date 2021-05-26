@@ -50,7 +50,7 @@ Espoo
 ### 1.1 Roolit
 #### 1.1.1 Pelaaja
 - (a) Pelaaja on henkilö, joka pelin aikana hallitsee värillä tai muulla merkinnällä määriteltyä palloa ja mailaa.
-- (b) Joukkue on joukko useampia pelaajia, joiden toimia tulkitaan kuin ne olisivat kaikki saman pelaajan tekemiä.
+- (b) Joukkue on joukko useampia pelaajia, joiden toimia tulkitaan kuin ne olisivat kaikki yhden pelaajan tekemiä.
 - (c) Kun joukkue saa lyöntivuoron, joukkueen on määritettävä keskuudestaan yksi pelaaja, joka suorittaa lyöntivuoron vaatimat toimenpiteet. 
 
 #### 1.1.2 Konklaavi
@@ -91,13 +91,13 @@ Espoo
 - (b) Mailan varsi voi olla valmistettu mistä tahansa materiaalista. Mailan varteen saa asentaa gripin. Varsi ei saa olla muovattu pelaajan käden minkään osan muotoon.
 - (c) Mailan pään tulee olla kova ja materiaaliltaan sekä rakenteeltaan sellainen, ettei se vahingoita palloja. Mailan molempien päiden tulee olla samanlaiset,
 suorat ja sileät. Jos pelaajan mailan päät eivät ole samanlaiset, konklaavi määrää kummalla päällä pelaajan on pelattava.
-- (d) Pelissä käytettävien mailojen tulee olla yhtä pitkiä. Mailojen pituus mitataan varren suunnassa varren päästä molon reunaan asti, ja siitä käytetään nimitystä mailanmitta. Jos yhtä pitkien mailojen käyttäminen ei ole mahdollista, voidaan mailanmitaksi määritellä vaihtoehtoinen ja tarkoituksen mukainen mitta, esimerkiksi mailojen mediaanipituus.
+- (d) Pelissä käytettävien mailojen tulee olla yhtä pitkiä. Mailojen pituus mitataan varren suunnassa varren päästä molon reunaan asti, ja siitä käytetään nimitystä mailanmitta.
 - (e) Kaikenlaisten tähtäimien, peilien ja muiden apuvälineiden liittäminen mailaan on kielletty. Mailan varren ei kuitenkaan tarvitse olla suora ja mailan päässä voi olla piirrettynä tähtäysviivoja.
 - (f) Mailaa ei saa vaihtaa pelin aikana, ellei se ole pelissä vahingossa vaurioitunut niin, että se vaikuttaa merkittävästi pelaamiseen. Vaurioituneella mailalla saa pelata vain, jos siitä ei saa hyötyä pelaamiseen. Pelaaja voi vaihtaa vaurioituneen mailan ainoastaan konklaavin luvalla tai konklaavin vaatimuksesta.
 
 ## 2. Määritelmiä
 ### 2.1. Pelin alku, pelin loppu, lyöntivuoro
-- (a) Peli alkaa, kun pelijärjestyksessä ensimmäinen pelaaja lyö ensimmäisen lyönnin sääntöjen 2.2 ja [3.1](#31-pelin-aloitus-ja-pelijärjestyksen-määräytyminen) mukaisesti.
+- (a) Peli alkaa, kun pelijärjestyksessä ensimmäinen pelaaja lyö ensimmäisen lyönnin sääntöjen [2.2](#22-lyönti-ja-lyöntiliike) ja [3.1](#31-pelin-aloitus-ja-pelijärjestyksen-määräytyminen) mukaisesti.
 - (b) Lyöntivuoro loppuu, kun 
   * a. Pelaaja on lyönyt palloa ja pallo ei läpäise porttia eikä osu elävään palloon eikä pelaajalla ei ole kumulatiivisesti kerääntyneitä lisälyöntejä jäljellä; tai 
   * b. Pelaajan pallo ajautuu pelialueelta ulos säännön [3.2](#32-pallo-ulos-pelialueelta) mukaan; tai 
@@ -329,7 +329,7 @@ tässä järjestyksessä
 
 ## 6. Peliasu
 - (a) Peliasun tulee olla hyvien tapojen mukainen eikä saa loukata ketään.
-- (b) konklaavi voi vaatia pelaajaa muuttamaan peliasua, mikäli katsoo sen olevan hyvien tapojen vastainn tai loukkaava.
+- (b) konklaavi voi vaatia pelaajaa muuttamaan peliasua, mikäli katsoo sen olevan hyvien tapojen vastainen tai loukkaava.
 - (c) Mikäli pelaaja ei konklaavin vaatimuksesta huolimatta korjaa peliasua, konklaavi voi antaa varoituksen. Väärästä peliasusta konklaavi ei voi antaa kuin yhden varoituksen pelaajalle yhden pelin aikana.
 - (d) Pelaaja saa käyttää hansikkaita, aurinkolaseja, lakkeja ja muita hienosäätöasusteita.
 
