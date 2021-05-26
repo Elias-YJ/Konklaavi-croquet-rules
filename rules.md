@@ -1,5 +1,5 @@
 Espoo
-16.8.2016
+26.5.2021
 
 
 # Kaljakroketin viralliset säännöt
