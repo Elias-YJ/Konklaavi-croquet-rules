@@ -204,10 +204,9 @@ vielä maalitikkuun. Katso lyhennetyssä pelissä [kappale 8](#8-lyhennetty-peli
 - (j) Mikäli käsipallo siirretään portin keskelle, pallo ei voi läpäistä porttia kumpaankaan suuntaan ennen kuin se on tullut portista ulos
 
 ### 3.5. Lähtö- ja maalitolppaan osuminen
-- (a) Pallon osumisella pelin aikana lähtötolppaan ei ole mitään merkitystä.
-- (b) Jos pelaajan pallo on läpäissyt kaikki portit eli on ns. Rover- pallo ja se osuu maalitolppaan lyönnin tai toisten pallojen vaikutuksesta, se muuttuu lyönnin jälkeen ulkopuoliseksi tekijäksi ja se tulee poistaa kentältä. Pallo voi siis maalitolppaan osumisen jälkeen vielä esimerkiksi siirtää muita palloja, ennen kuin se poistetaan kentältä.
-- (c) Maalitolpan suoristaminen pelin aikana ei voi aiheuttaa pallon rover-pallon osumista maalitolppaan.
-- (d) Pallon osumisella maalitolppaan mitätöidyllä lyönnillä ei ole merkitystä. Esimerkki: Pelaajan pallo on rover-pallo. Pelaaja osuu maalitolppaan omalla pallolla, mutta mailallaan osuu vastustajan palloon. Pelaaja ei ole tullut maaliin.
+- (a) Jos pelaajan pallo on läpäissyt kaikki portit eli on ns. Rover- pallo ja se osuu maalitolppaan lyönnin tai toisten pallojen vaikutuksesta, se muuttuu lyönnin jälkeen ulkopuoliseksi tekijäksi ja se tulee poistaa kentältä. Pallo voi siis maalitolppaan osumisen jälkeen vielä esimerkiksi siirtää muita palloja, ennen kuin se poistetaan kentältä.
+- (b) Maalitolpan suoristaminen pelin aikana ei voi aiheuttaa pallon rover-pallon osumista maalitolppaan.
+- (c) Pallon osumisella maalitolppaan mitätöidyllä lyönnillä ei ole merkitystä. Esimerkki: Pelaajan pallo on rover-pallo. Pelaaja osuu maalitolppaan omalla pallolla, mutta mailallaan osuu vastustajan palloon. Pelaaja ei ole tullut maaliin.
 
 ### 3.6. Krokeeraus ja krokkaus
 - (a) Osuma toisen pelaajan elävään palloon omalla pallolla omalla vuorolla antaa pelaajalle mahdollisuuden yhteen lisälyöntiin tai vastustajan pallon krokkaukseen. Tätä osumaa kutsutaan krokeeraukseksi. Krokeeraus on mahdollista niiden pelaajien kesken, joiden pallot ovat pelissä onnistuneen aloituslyönnin seurauksena.
