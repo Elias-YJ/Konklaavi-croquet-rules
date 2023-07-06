@@ -194,15 +194,14 @@ vielä maalitikkuun. Katso lyhennetyssä pelissä [kappale 8](#8-lyhennetty-peli
 ### 3.4. Portin läpäisy
 - (a) Portti katsotaan läpäistyksi hyväksyttävästi, mikäli pallo läpäisee läpäisyvuorossa olevan portin oikeasta suunnasta. Pallon on läpäistävä portti kokonaan. Portin hyväksyttävästä läpäisystä saa lisälyönnin.
 - (b) Portti katsotaan läpäistyksi väärinpäin, mikäli pallo läpäisee läpäisyvuorossa olevan portin väärästä suunnasta. 
-- (c) Mikäli pallo läpäisee portin väärinpäin, portti tulee läpäistä oikeaan suuntaan ennen portin hyväksyttävää, varsinaista läpäisyä. Lisälyönnin saa vain viimeisestä, varsinaisesta läpäisykerrasta. Tätä kutsutaan solmusäännöksi.
-- (d) Portin voi läpäistä useilla lyönneillä. Eli jos pallo tulee portille portin kulkusuunnasta, mutta jää portin sisään, portin voi läpäistä heti seuraavalla lyönnillä.
-- (e) Jos pallo tulee portille portin kulkusuuntaa vastaan, mutta jää portin sisään eli ei ole läpäissyt porttia, portin voi läpäistä väärinpäin seuraavalla lyönnillä, jolloin toimitaan kohdan (c) mukaisesti.
-- (f) Epäselvissä tapauksissa pelin konklaavi tarkastaa, onko pallo läpäissyt portin vai ei. konklaavi voi tarkastaa läpäisyn optisesti tai mekaanisesti esimerkiksi liu’uttamalla mailan vartta vaakasuorassa porttilinjan mukaan.
-- (g) Portin läpäisystä oikein päin omalla vuorolla pelaaja saa yhden lisälyönnin, joka tulee käyttää saman lyöntivuoron aikana. Mikäli pallo menee portin läpi oikeasta suunnasta ja palaa portin läpi väärästä suunnasta yhdellä lyönnillä, porttia ei ole läpäisty.
-- (h) Mikäli pelaajan pallo läpäisee portin toisen pelaajan toimesta, katsotaan että portti on hyväksyttävästi läpäisty, mutta lisälyöntiä ei tule.
-- (I) Mikäli pallo läpäisee portin väärinpäin toisen pelaajan toimesta, portin läpäisyllä ei ole merkitystä.
-- (j) Pelaaja voi läpäistä yhdellä lyönnillä useamman portin, ja jokaisesta portista tulee tällöin erikseen lisälyönti –katso kohta 3.7 kumulatiivisuudesta.
-- (k) Mikäli käsipallo siirretään portin keskelle, pallo ei voi läpäistä porttia kumpaankaan suuntaan ennen kuin se on tullut portista ulos
+- (c) Portin voi läpäistä useilla lyönneillä. Eli jos pallo tulee portille portin kulkusuunnasta, mutta jää portin sisään, portin voi läpäistä heti seuraavalla lyönnillä.
+- (d) Jos pallo tulee portille portin kulkusuuntaa vastaan, mutta jää portin sisään eli ei ole läpäissyt porttia, portin voi läpäistä väärinpäin seuraavalla lyönnillä, jolloin toimitaan kohdan (c) mukaisesti.
+- (e) Epäselvissä tapauksissa pelin konklaavi tarkastaa, onko pallo läpäissyt portin vai ei. konklaavi voi tarkastaa läpäisyn optisesti tai mekaanisesti esimerkiksi liu’uttamalla mailan vartta vaakasuorassa porttilinjan mukaan.
+- (f) Portin läpäisystä oikein päin omalla vuorolla pelaaja saa yhden lisälyönnin, joka tulee käyttää saman lyöntivuoron aikana.
+- (g) Mikäli pelaajan pallo läpäisee portin toisen pelaajan toimesta, katsotaan että portti on hyväksyttävästi läpäisty, mutta lisälyöntiä ei tule.
+- (h) Mikäli pallo läpäisee portin väärinpäin toisen pelaajan toimesta, portin läpäisyllä ei ole merkitystä.
+- (i) Pelaaja voi läpäistä yhdellä lyönnillä useamman portin, ja jokaisesta portista tulee tällöin erikseen lisälyönti –katso kohta 3.7 kumulatiivisuudesta.
+- (j) Mikäli käsipallo siirretään portin keskelle, pallo ei voi läpäistä porttia kumpaankaan suuntaan ennen kuin se on tullut portista ulos
 
 ### 3.5. Lähtö- ja maalitolppaan osuminen
 - (a) Pallon osumisella pelin aikana lähtötolppaan ei ole mitään merkitystä.
@@ -383,9 +382,7 @@ vielä maalitikkuun. Katso lyhennetyssä pelissä [kappale 8](#8-lyhennetty-peli
 2. Aloituslyönti lyödään mailanmitan päästä aloitustolpasta. Jos pelaaja osuu aloituslyönnillään aloitustolppaan, pelaaja saa uuden lyöntivuoron ja voi aloittaa radan kiertämisen. Muutoin pelaaja poistaa pallonsa pelistä ja yrittää aloituslyöntiä uudestaan seuraavalla lyöntivuorollaan.
 3. Jokainen hyväksytty portin läpäisy tuottaa kukin yhden lisälyönnin. Lisälyönti
 tulee käyttää välittömästi samalla vuorolla.
-4. Läpäistävänä olevaa porttia ei saa läpäistä väärästä suunnasta. Jos näin
-tapahtuu, täytyy portti läpäistä oikein päin kahdesti ja lisälyönnin saa vain
-viimeisestä läpäisystä.
+4. Läpäistävänä olevaa porttia ei saa läpäistä väärästä suunnasta. 
 5. Pelaajan osuma omalla pallolla toisen pelaajan palloon (krokeeraus) tuottaa
 pelaajalle mahdollisuuden lisälyöntiin tai krokkaukseen. Lisälyönti tai krokkaus
 on suoritettava välittömästi osuman jälkeen samalla vuorolla. Krokkauksen suorittaminen päättää pelaajan vuoron välittömästi, mutta lisälyöntejä voi päätyä pelaamaan useita, mikäli krokeeraa useampia palloja. Krokeerauksesta samaan palloon saa vain yhden lisälyönnin tai krokkauksen
