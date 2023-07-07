@@ -70,7 +70,6 @@ kohtaan josta pallo meni yli.
   * [7.1 Varoitettavat rikkomukset](#71-varoitettavat-rikkomukset)
   * [7.2 Kentältäposton aiheuttavat rikkomukset](#72-kentältäpoiston-aiheuttavat-rikkomukset)
 - [8. Lyhennetty peli](#8-lyhennetty-peli)
-- [9. Sääntötiivistelmä](#9-sääntötiivistelmä)
 
 ## 1. Johdanto
 ### 1.1 Roolit
